@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.educativo.todoekspert.activities.TodoListActivity" >
+    <item
+        android:id="@+id/action_add"
+        android:title="@string/action_add"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="always"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="101"/>
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/action_logout"
+        android:showAsAction="never"
+        android:orderInCategory="102"/>
+
+</menu>

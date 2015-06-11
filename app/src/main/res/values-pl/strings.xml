@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoEkspert</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="login">Zaloguj</string>
+    <string name="enter_your_username">Podaj nazwę użytkownika</string>
+    <string name="enter_your_password">Podaj hasło</string>
+    <string name="this_field_is_required">To pole jest wymagane!</string>
+    <string name="title_activity_todo_list">TodoEkspert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Dodaj</string>
+    <string name="action_refresh">Odśwież</string>
+    <string name="action_logout">Wyloguj</string>
+    <string name="title_activity_add_todo">Dodaj nowe zadanie</string>
+    <string name="what_needs">Co trzeba zrobić?</string>
+    <string name="Done">Zakończone</string>
+    <string name="add_todo">Dodaj zadanie</string>
+
+</resources>
